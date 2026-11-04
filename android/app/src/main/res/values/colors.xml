@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches AppColors.splashBackground so the system splash and the
+         Flutter splash share one background and the hand-off is invisible. -->
+    <color name="splash_background">#FFFEFC</color>
+</resources>
