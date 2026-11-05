@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Deliberately empty. Android 12+ always reserves an icon slot on its
+     splash screen and can only draw a single circle-masked image there, so
+     the Diet Pro artwork cannot go here. Keeping it blank means the system
+     shows a plain background that the Flutter splash then paints over. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/transparent" />
+</shape>
